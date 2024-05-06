@@ -9,7 +9,6 @@
 <body>
 	<?php
 		define("Base", "./includes/index/");
-
 		include Base . "Header.php";
 		include Base . "Section_Info.php";		
 		include Base . "Section_Dishes.php";
