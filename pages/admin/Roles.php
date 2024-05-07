@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Usuarios</title>
+	<title>Roles</title>
 	<script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="flex flex-row">
@@ -19,7 +19,7 @@
 		?>
 		<div class=" w-full h-[100%] flex justify-center items-center p-10">
 			<?php
-				$content = file_get_contents("../../data/Usuarios.json");
+				$content = file_get_contents("../../data/Rol.json");
 				renderTable($content);
 			?>
 		</div>
