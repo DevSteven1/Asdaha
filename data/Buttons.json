@@ -1,3 +1,4 @@
 [
-    {"name":"Home","link":{"page":"index"}}
+    {"name":"Usuarios","href":"./Users.php"},
+    {"name":"Roles","href":"./Roles.php"}
 ]

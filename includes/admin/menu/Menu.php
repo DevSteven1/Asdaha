@@ -5,7 +5,7 @@
 		$data = json_decode($json, true);
 
 		foreach ($data as $btn) {
-			echo Button($btn["name"]);
+			echo Button($btn["name"], $btn["href"]);
 		}
 	?>
 </nav>
