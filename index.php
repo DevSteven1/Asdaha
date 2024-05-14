@@ -4,8 +4,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Restaurante_Refactor</title>
-	<!-- <script src="https://cdn.tailwindcss.com"></script> -->
-	<script src="./public/css/tailwind.js"></script>
+	<script src="https://cdn.tailwindcss.com"></script>
+	<!-- <script src="./public/css/tailwind.js"></script> -->
 </head>
 <body>
 	<?php
